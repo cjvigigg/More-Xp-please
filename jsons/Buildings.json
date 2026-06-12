@@ -4,8 +4,8 @@
     "cost": 0,
     "uniques": [ "Automatically built in all cities where it is buildable",
 "maxXPfromBarbarians": 10000,
+
 		    "Limited to [1] per Civilization",
 		    "Unbuildable <for [AI player]>",
-        "New [Military] units start with [400] Experience [in all cities]", "[+5000]% XP gained from combat <for [Military] units>"]
-}
+        "New [Military] units start with [400] Experience [in all cities]", "[+5000]% XP gained from combat <for [Military] units>"]}
  ]
